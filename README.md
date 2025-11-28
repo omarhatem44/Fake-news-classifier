@@ -93,3 +93,6 @@ Text is cleaned using the same pipeline used in training
 ###Shows:
 Predicted label (FAKE or REAL)
 Probabilities for each class
+
+## 🎬 Demo
+<p align="center"> <img src="result/demo.mp4" width="600"> </p>
