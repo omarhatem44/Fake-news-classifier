@@ -106,7 +106,6 @@ Probabilities for each class
 ---
 
 ## 🔮 Future Enhancements:
-
   -BERT / RoBERTa transformers version
   -LSTM / Bi-LSTM deep learning pipeline
   -Multi-class news topic classification
