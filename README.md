@@ -69,6 +69,7 @@ fake-news-classifier/
 │
 └── README.md
 ```
+---
 ## 🚀 Train the Model
 ```bash
 python src/03_train_baseline_model.py
@@ -82,7 +83,7 @@ Evaluate on test split
 fake_news_logreg.pkl
 confusion matrix
 metric reports
-
+---
 ## 🧪 Run the Streamlit App (UI)
 ```bash
 streamlit run src/app_fake_news_ui.py
@@ -94,13 +95,13 @@ Text is cleaned using the same pipeline used in training
 ### Shows:
 Predicted label (FAKE or REAL)
 Probabilities for each class
-
+---
 ## 🎬 Demo:
 <p align="center">
   <img src="results/True.png" width="450">
   <img src="results/Fake.png" width="450">
 </p>
-
+---
 ## 🔮 Future Enhancements:
 
 -BERT / RoBERTa transformers version
@@ -109,7 +110,7 @@ Probabilities for each class
 -Model interpretability with LIME / SHAP
 -API deployment using FastAPI
 -Full web dashboard with Streamlit Cloud
-
+---
 ## 👨‍💻 Author:
 -Omar Hatem Ellaban |
 -Machine Learning & Deep Learning Engineer |
