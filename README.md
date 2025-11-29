@@ -56,8 +56,9 @@ fake-news-classifier/
 │
 ├── results/
 │   ├── metrics_report.txt
-│   ├── confusion_matrix_fake_news.png
-│   └── demo.gif
+│   ├── confusion_matrix_fake_news.png 
+│   ├──Fake.png
+│   └── True.png
 │   
 │
 ├── src/
@@ -72,7 +73,7 @@ fake-news-classifier/
 ```bash
 python src/03_train_baseline_model.py
 ```
-###This script will:
+### This script will:
 Load and clean the dataset
 Apply TF-IDF vectorization
 Train Logistic Regression
@@ -87,7 +88,7 @@ metric reports
 streamlit run src/app_fake_news_ui.py
 ```
 
-###Features:
+### Features:
 Input any news paragraph
 Text is cleaned using the same pipeline used in training
 ###Shows:
