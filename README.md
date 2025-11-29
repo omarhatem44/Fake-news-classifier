@@ -95,6 +95,8 @@ Predicted label (FAKE or REAL)
 Probabilities for each class
 
 ## 🎬 Demo
-<p align="center"> <img src="result/True.png" width="600"> </p>
-<p align="center"> <img src="result/Fake.png" width="600"> </p>
+<p align="center">
+  <img src="results/True.png" width="450">
+  <img src="results/Fake.png" width="450">
+</p>
 
