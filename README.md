@@ -114,8 +114,8 @@ Probabilities for each class
   - Full web dashboard with Streamlit Cloud
 ---
 ## 👨‍💻 Author:
--Omar Hatem Ellaban |
--Machine Learning & Deep Learning Engineer |
--📧 Email:  omarhatemmoahemd@gmail.com |
--🐙 GitHub: https://github.com/omarhatem44
+- Omar Hatem Ellaban |
+- Machine Learning & Deep Learning Engineer |
+- 📧 Email:  omarhatemmoahemd@gmail.com |
+- 🐙 GitHub: https://github.com/omarhatem44
 
