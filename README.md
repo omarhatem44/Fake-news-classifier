@@ -95,9 +95,24 @@ Text is cleaned using the same pipeline used in training
 Predicted label (FAKE or REAL)
 Probabilities for each class
 
-## 🎬 Demo
+## 🎬 Demo:
 <p align="center">
   <img src="results/True.png" width="450">
   <img src="results/Fake.png" width="450">
 </p>
+
+## 🔮 Future Enhancements:
+
+BERT / RoBERTa transformers version
+LSTM / Bi-LSTM deep learning pipeline
+Multi-class news topic classification
+Model interpretability with LIME / SHAP
+API deployment using FastAPI
+Full web dashboard with Streamlit Cloud
+
+## 👨‍💻 Author:
+Omar Hatem Ellaban |
+Machine Learning & Deep Learning Engineer |
+📧 Email:  omarhatemmoahemd@gmail.com |
+🐙 GitHub: https://github.com/omarhatem44
 
