@@ -78,7 +78,7 @@ Load and clean the dataset
 Apply TF-IDF vectorization
 Train Logistic Regression
 Evaluate on test split
-###Save:
+### Save:
 fake_news_logreg.pkl
 confusion matrix
 metric reports
@@ -91,7 +91,7 @@ streamlit run src/app_fake_news_ui.py
 ### Features:
 Input any news paragraph
 Text is cleaned using the same pipeline used in training
-###Shows:
+### Shows:
 Predicted label (FAKE or REAL)
 Probabilities for each class
 
