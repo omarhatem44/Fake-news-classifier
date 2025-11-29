@@ -106,12 +106,12 @@ Probabilities for each class
 ---
 
 ## 🔮 Future Enhancements:
-  -BERT / RoBERTa transformers version
-  -LSTM / Bi-LSTM deep learning pipeline
-  -Multi-class news topic classification
-  -Model interpretability with LIME / SHAP
-  -API deployment using FastAPI
-  -Full web dashboard with Streamlit Cloud
+  - BERT / RoBERTa transformers version
+  - LSTM / Bi-LSTM deep learning pipeline
+  - Multi-class news topic classification
+  - Model interpretability with LIME / SHAP
+  - API deployment using FastAPI
+  - Full web dashboard with Streamlit Cloud
 ---
 ## 👨‍💻 Author:
 -Omar Hatem Ellaban |
