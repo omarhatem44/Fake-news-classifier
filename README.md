@@ -1,5 +1,5 @@
-# 📰 Fake News Classifier (NLP)
-### ✔️ TF-IDF + Logistic Regression | Streamlit UI | End-to-End NLP Pipeline
+#  Fake News Classifier (NLP)
+###  TF-IDF + Logistic Regression | Streamlit UI | End-to-End NLP Pipeline
 
 This project is a complete **Fake News Detection System** built using traditional NLP techniques:  
 **TF-IDF Vectorization + Logistic Regression Classification**.  
@@ -7,7 +7,7 @@ A clean, production-style pipeline was implemented including: EDA, text cleaning
 
 ---
 
-## ⭐ Key Features
+##  Key Features
 - End-to-end NLP machine learning workflow  
 - TF-IDF text vectorization  
 - Logistic Regression classifier  
@@ -20,7 +20,7 @@ A clean, production-style pipeline was implemented including: EDA, text cleaning
 
 ---
 
-## 📊 Model Performance (Important)
+##  Model Performance (Important)
 
 | Metric | Score |
 |--------|--------|
@@ -44,7 +44,7 @@ A clean, production-style pipeline was implemented including: EDA, text cleaning
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 fake-news-classifier/
@@ -70,7 +70,7 @@ fake-news-classifier/
 └── README.md
 ```
 
-## 🚀 Train the Model
+##  Train the Model
 ```bash
 python src/03_train_baseline_model.py
 ```
@@ -85,7 +85,7 @@ confusion matrix
 metric reports
 
 
-## 🧪 Run the Streamlit App (UI)
+##  Run the Streamlit App (UI)
 ```bash
 streamlit run src/app_fake_news_ui.py
 ```
@@ -97,7 +97,7 @@ Text is cleaned using the same pipeline used in training
 Predicted label (FAKE or REAL)
 Probabilities for each class
 
-## 🎬 Demo:
+##  Demo:
 <p align="center">
   <img src="results/True.png" width="450">
   <img src="results/Fake.png" width="450">
@@ -105,7 +105,7 @@ Probabilities for each class
 
 ---
 
-## 🔮 Future Enhancements:
+##  Future Enhancements:
   - BERT / RoBERTa transformers version
   - LSTM / Bi-LSTM deep learning pipeline
   - Multi-class news topic classification
@@ -117,5 +117,5 @@ Probabilities for each class
 - Omar Hatem Ellaban |
 - Machine Learning & Deep Learning Engineer |
 - 📧 Email:  omarhatemmoahemd@gmail.com |
-- 🐙 GitHub: https://github.com/omarhatem44
+
 
